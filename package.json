@@ -1,0 +1,19 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "full stack test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "testdev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riketscience/fullstack.git"
+  },
+  "author": "Rik Palmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riketscience/fullstack/issues"
+  },
+  "homepage": "https://github.com/riketscience/fullstack#readme"
+}
